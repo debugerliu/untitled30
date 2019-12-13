@@ -25,6 +25,7 @@ el4 = driver.find_element_by_accessibility_id("t5_13499864")
 el4.click()
 e15 = driver.find_element_by_id('com.huawei.hnreader:id/bookinfo_name')
 tt = e15.get_attribute(e15)
+driver.find_element_by
 print(tt)
 
 
